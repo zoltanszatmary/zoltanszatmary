@@ -2,7 +2,7 @@
   <img src="http://cpslab.bu.edu/wp-content/uploads/2023/02/logo-256x256.png" width="100"/>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/zolt%C3%A1n-szatm%C3%A1ry-346257185/">
+    <a href="https://www.linkedin.com/in/zoltan-szatmary/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/ZoltanSzatmary">
@@ -21,10 +21,10 @@
 ### About Me:
  - My name is Zoltán Szatmáry [pronounced: /ˈzoltɑːn ˈsɒtmaːri/].
  - I'm currently studying Computer Engineering at Budapest University of Technology and Economics - Faculty of Electrical Engineering and Informatics.
- - I have a special interest in cloud native computing, software-defined networking, mobile networks, IT security, operating sytstems and low-level programming.
+ - I have a special interest in computer networks, telecommunications, cloud native computing, IT security, operating sytstems, and low-level programming.
  - Contact:
    - X: [ZoltanSzatmary](https://x.com/ZoltanSzatmary)
-   - LinkedIn: [Zoltán Szatmáry](https://www.linkedin.com/in/zolt%C3%A1n-szatm%C3%A1ry/)
+   - LinkedIn: [Zoltán Szatmáry](https://www.linkedin.com/in/zoltan-szatmary/)
 
 
 ## Skills
