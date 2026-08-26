@@ -20,8 +20,7 @@
 
 ### About Me:
  - My name is Zoltán Szatmáry [pronounced: /ˈzoltɑːn ˈsɒtmaːri/].
- - I'm currently studying Computer Engineering at Budapest University of Technology and Economics - Faculty of Electrical Engineering and Informatics.
- - I have a special interest in computer networks, telecommunications, cloud native computing, IT security, operating sytstems, and low-level programming.
+ - I am currently studying Computer Science Engineering at Budapest University of Technology and Economics - Faculty of Electrical Engineering and Informatics.
  - Contact:
    - X: [ZoltanSzatmary](https://x.com/ZoltanSzatmary)
    - LinkedIn: [Zoltán Szatmáry](https://www.linkedin.com/in/zoltan-szatmary/)
