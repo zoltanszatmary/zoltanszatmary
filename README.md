@@ -1,6 +1,4 @@
 <div id="header" align="center">
-  <img src="http://cpslab.bu.edu/wp-content/uploads/2023/02/logo-256x256.png" width="100"/>
-
   <div id="badges">
     <a href="https://www.linkedin.com/in/zoltan-szatmary/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -45,6 +43,3 @@
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,neovim,git,github,gitlab,githubactions,ansible,markdown,regex,raspberrypi&perline=4)
-
-### My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zotyamester&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
